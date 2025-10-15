@@ -3,5 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Notes",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./Attachments"
+  "attachmentFolderPath": "./Attachments",
+  "alwaysUpdateLinks": true
 }

@@ -10,10 +10,10 @@
 
 ### Coordinador
 
-- Nombre: Moises
-- email: moises.fabra@grupocastilla.es
+- Nombre: [[Moises F. Blanc]]
 
-- Marta Martínez
+
+- [[Marta Martínez]]
 - email: marta.matinez@grupocastilla.es marmarti@redhat.com
 
 ### Personal institución

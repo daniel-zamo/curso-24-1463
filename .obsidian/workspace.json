@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "People/Carmen.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Carmen"
             }
           }
         ]
@@ -172,13 +172,16 @@
   },
   "active": "04dbc76d3a353234",
   "lastOpenFiles": [
+    "People/Jolanda.md",
+    "People/Marta Martínez.md",
+    "People/Moises F. Blanc.md",
+    "README.md",
+    "images/id-en-redhat.png",
     "images/Screenshot from 2025-10-15 20-35-21.png",
     "images/Screenshot from 2025-10-15 20-34-51.png",
     "images",
     "People/Carmen.md",
-    "README.md",
     "Excalidraw/Drawing 2025-10-15 18.02.14.excalidraw.md",
-    "People/Jolanda.md",
     "People",
     "Untitled.canvas",
     "Notes",
