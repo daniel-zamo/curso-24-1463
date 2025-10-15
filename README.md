@@ -9,14 +9,14 @@
 
 ### Personal institución
 
-- Carmen
-- Jolanda
+- [[People/Carmen|Carmen]]
+- [[People/Jolanda|Jolanda]]
 - Sala u oficina 7
 
 # Temario
 
-## Introducción
-
 - Intro. de algunas tecnologías
-- 1 Parte: OpenShift Dev I - [DO188](./do188.md)
-- 2 Parte: OpenShift Dev II - [DO288](./do288.md)
+- 1 Parte: OpenShift Dev I - [[DO188]]
+- 2 Parte: OpenShift Dev II - [[DO288]]
+
+
